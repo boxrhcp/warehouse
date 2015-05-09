@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <pthread.h>
-#include "inlcude/db_warehouse.h"
+#include "include/db_warehouse.h"
 #include "include/concurrent.h"
 
 // Add necessary global variables
